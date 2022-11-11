@@ -17,6 +17,16 @@ infrastructures, etc. It is natural to wonder about the factors that
 could potentially have the most influential impact on life expectancy:
 social-economic factors, public health factors, or both.
 
+## The intended final products:
+
+-   A website with homepage for overview of project and our screencast,
+    a page for some plots for exploratory data, a page for analysis of
+    some factors and approaches we used, a page for interactive
+    dashboard by R-Shiny, a page for report and link to github.
+-   A report showing how we completed the project, and any changes
+    during completion.
+-   A short screencast describing our project.
+
 ## The planned analyses / visualizations / coding challenges
 
 #### Analyses:
@@ -47,3 +57,19 @@ social-economic factors, public health factors, or both.
 -   Model fitting : Our dataset contains many predictors of life
     expectancy. Variable selection and interpretation could be a
     challenge
+
+## The planned timeline
+
+-   11.12 Proposal
+-   11.12\~11.15 Find more related datasets to include more determinants
+    for life expectancy. Determine the variables/predictors. Explore the
+    data and decide what exact plots that we should draw.
+-   11.15 Meeting with TA.
+-   11.15\~11.20 Assign individual tasks and schedule weekly meetings.
+    Finish analysis test part and begin EDA Section.
+-   11.21\~11.27 Finish EDA Section, Time Series Plot and analysis
+    linear model part, beginning Interactive World Map.
+-   11.28\~12.4 Finish the World Map, begin Website design and begin to
+    write the report.
+-   12.5\~12.10 Finish the report and video.
+-   12.11\~12.15 Finish presentation ppt and scripts.
