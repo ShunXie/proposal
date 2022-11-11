@@ -15,7 +15,10 @@ World Life Expectancy—Live to thrive
 ## The motivation for this project:
 It's a survival instinct in blood that keeps us asking ourselves, how do we live, and how do we live longer. People in different regions have different life expectancies. Even in New York, life expectancy varies over regions due to different economic statuses, different infrastructures, etc. It is natural to wonder about the factors that could potentially have the most influential impact on life expectancy: social-economic factors, public health factors, or both. 
 
-
+## The intended final products:
+ * A website with homepage for overview of project and our screencast, a page for some plots for exploratory data, a page for analysis of some factors and approaches we used, a page for interactive dashboard by R-Shiny, a page for report and link to github.
+ * A report showing how we completed the project, and any changes during completion.
+ * A short screencast describing our project.
 
 ## The planned analyses / visualizations / coding challenges
 
