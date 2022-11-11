@@ -16,3 +16,34 @@ over regions due to different economic statuses, different
 infrastructures, etc. It is natural to wonder about the factors that
 could potentially have the most influential impact on life expectancy:
 social-economic factors, public health factors, or both.
+
+## The planned analyses / visualizations / coding challenges
+
+#### Analyses:
+
+-   Hypothesis test : difference in mean life expectancy among regions,
+    e.g. developed v.s. developing countries
+-   Linear model : Fit a linear model with Y = life expectancy and
+    X=economic/environmental / health determinants
+
+#### Visualizations:
+
+-   EDA Plots: variable distribution / scatter plots with best line fit
+    / correlation plot of variable
+-   Time Series Plot : life expectancy over time
+-   Interactive World Map : life expectancy in different countries and
+    years
+
+#### Challenges :
+
+-   Missing data：Many variables in our major dataset have missing
+    values Select reasonable variables: We need to find more variables
+    for our dataset, in order to cover aspects of society, economics,
+    environment, health, and so on.
+-   Website Design : We want to build a fancier website with advanced
+    settings
+-   R-Shiny interactive dashboard : We plan to use R-Shiny to build an
+    interactive platform.
+-   Model fitting : Our dataset contains many predictors of life
+    expectancy. Variable selection and interpretation could be a
+    challenge
